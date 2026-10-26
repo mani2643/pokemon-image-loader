@@ -113,7 +113,6 @@ input:focus{
     border-radius:10px;
     object-position:center;
 }
-<<<<<<< HEAD
 .loading{
     width:100%;
     background-color:black;
@@ -153,8 +152,6 @@ input:focus{
 .hidden{
     display:none;
 }
-=======
->>>>>>> 7462c196f7bc134cb0467905372363289d151db1
 /* Responsiveness part */
 
 @media(max-width:530px){
