@@ -43,6 +43,7 @@ body{
     width:min(500px,100%);
     border:1px solid var(--border);
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+<<<<<<< HEAD
     animation:fadeIn 500ms ease;
 }
 @keyframes fadeIn{
@@ -54,6 +55,8 @@ body{
         opacity:1;
         transform:translateY(0);
     }
+=======
+>>>>>>> 7462c196f7bc134cb0467905372363289d151db1
 }
 h2{
     text-align:center;
@@ -110,6 +113,7 @@ input:focus{
     border-radius:10px;
     object-position:center;
 }
+<<<<<<< HEAD
 .loading{
     width:100%;
     background-color:black;
@@ -149,6 +153,8 @@ input:focus{
 .hidden{
     display:none;
 }
+=======
+>>>>>>> 7462c196f7bc134cb0467905372363289d151db1
 /* Responsiveness part */
 
 @media(max-width:530px){
